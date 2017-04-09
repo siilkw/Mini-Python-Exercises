@@ -1,4 +1,4 @@
-# mini-python-exercises
+# Mini Python Exercises
 A set of solutions for some basic programming challenges! 
 I am new to Python and I am uploading my solutions as I solve them, both to practice putting them out there and to become more familiar with GitHub.
 
